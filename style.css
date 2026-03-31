@@ -1,0 +1,26 @@
+body {
+    background: #425;
+    background: linear-gradient(0deg, #425 0%, #224 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font: 16px sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+main {
+    text-align: center;
+}
+
+h1 {
+    color: #eeed;
+    font: 300 min(8rem, 16vw) 'Quicksand', sans-serif;
+    text-transform: lowercase;
+}
+
+p {
+    color: #aaa8;
+}
